@@ -4,8 +4,11 @@
     background-color: #000000;
 }
 
-#menu ul li {
+#menu ul {
     color: #ffffff;
+}
+
+#menu li {
     text-decoration: none;
 }
 
