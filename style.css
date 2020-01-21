@@ -6,11 +6,9 @@
 
 #menu ul {
     color: #ffffff;
+    list-style-type: none;
 }
 
-#menu li {
-    text-decoration: none;
-}
 
 h1 {
     font-size: 64px;
