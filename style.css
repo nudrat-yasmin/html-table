@@ -7,11 +7,9 @@
  ul #menu {
     color: #ffffff;
     list-style-type: none;
-}
-
-li #menu {
     display: inline;
 }
+
 
 
 h1 {
