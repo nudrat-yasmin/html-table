@@ -9,6 +9,10 @@
     list-style-type: none;
 }
 
+li #menu {
+    display: inline;
+}
+
 
 h1 {
     font-size: 64px;
